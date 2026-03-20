@@ -1,2 +1,2 @@
--Month 1 include's machine learning basic's like linear regression,logistic regression,Gradient Descent,Cost function etc.
+#Month 1 include's machine learning basic's like linear regression,logistic regression,Gradient Descent,Cost function etc.
 
