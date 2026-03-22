@@ -19,3 +19,10 @@ Day 4 Observations:
 bias.
 - Regularization prevents overfitting.
 - A good balance of model complexity and generalization erros is needed.
+
+Day 5 Observations:
+
+- Train error is always lower than test error
+- Validation helps choose best model
+- Overfitting detected using validation error
+- Test set must not be used during training
