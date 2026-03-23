@@ -26,3 +26,10 @@ Day 5 Observations:
 - Validation helps choose best model
 - Overfitting detected using validation error
 - Test set must not be used during training
+
+Day 6 Observations:
+
+- Cross validation gives stable estimates
+- Uses full dataset efficiently
+- Better than single train/test split
+- Helps reliable model selection
