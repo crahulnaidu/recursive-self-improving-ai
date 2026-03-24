@@ -33,3 +33,8 @@ Day 6 Observations:
 - Uses full dataset efficiently
 - Better than single train/test split
 - Helps reliable model selection
+
+Day 7 Observations;
+
+- Review of all the concepts for the week.
+- mini project on model selction using 5 fold cross validation.
