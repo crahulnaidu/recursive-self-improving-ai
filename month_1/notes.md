@@ -34,7 +34,14 @@ Day 6 Observations:
 - Better than single train/test split
 - Helps reliable model selection
 
-Day 7 Observations;
+Day 7 Observations:
 
 - Review of all the concepts for the week.
-- mini project on model selction using 5 fold cross validation.
+- mini project on model selection using 5 fold cross validation.
+
+Day 8 Observations:
+
+- Logistic regression outputs probabilities
+- Sigmoid squashes values to (0,1)
+- Cross-entropy works better than MSE
+- Decision boundary is linear
