@@ -45,3 +45,10 @@ Day 8 Observations:
 - Sigmoid squashes values to (0,1)
 - Cross-entropy works better than MSE
 - Decision boundary is linear
+
+Day 9 Observations:
+
+- Accuracy is not reliable for imbalanced data
+- Precision focuses on false positives
+- Recall focuses on false negatives
+- F1 balances both
