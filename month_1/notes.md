@@ -52,3 +52,10 @@ Day 9 Observations:
 - Precision focuses on false positives
 - Recall focuses on false negatives
 - F1 balances both
+
+Day 10 Observations:
+
+- Softmax outputs probabilities across classes
+- One-hot encoding is required
+- Cross-entropy works well for classification
+- Softmax generalizes sigmoid
