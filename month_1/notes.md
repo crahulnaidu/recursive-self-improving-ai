@@ -59,3 +59,10 @@ Day 10 Observations:
 - One-hot encoding is required
 - Cross-entropy works well for classification
 - Softmax generalizes sigmoid
+
+Day 11 Observations:
+
+- ROC shows performance across thresholds
+- AUC measures ranking quality
+- Threshold selection is important
+- ROC is useful for model comparison
