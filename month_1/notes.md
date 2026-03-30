@@ -66,3 +66,10 @@ Day 11 Observations:
 - AUC measures ranking quality
 - Threshold selection is important
 - ROC is useful for model comparison
+
+Day 12 Observations:
+
+- Scaling improves gradient descent speed
+- Standardization is widely used
+- Must fit scaler on training data only
+- Scaling doesn't change model expressiveness
