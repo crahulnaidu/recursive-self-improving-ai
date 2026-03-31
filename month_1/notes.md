@@ -73,3 +73,10 @@ Day 12 Observations:
 - Standardization is widely used
 - Must fit scaler on training data only
 - Scaling doesn't change model expressiveness
+
+Day 13 Observations:
+
+- L2 shrinks weights smoothly
+- L1 creates sparsity
+- Regularization controls overfitting
+- L1 helps feature selection
