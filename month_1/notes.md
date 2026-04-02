@@ -80,3 +80,9 @@ Day 13 Observations:
 - L1 creates sparsity
 - Regularization controls overfitting
 - L1 helps feature selection
+
+Day 14 Review and Project:
+- Project A-multi-clas classification and decision boundary
+visualization.
+- Project B-Breast cancer prediction using Logistic Regressions with multiple 
+model's and confusion matrix output.Dataset is used from kaggle.
