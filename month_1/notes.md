@@ -86,3 +86,10 @@ Day 14 Review and Project:
 visualization.
 - Project B-Breast cancer prediction using Logistic Regressions with multiple 
 model's and confusion matrix output.Dataset is used from kaggle.
+
+Day 15 Observations:
+
+- Optimization is about minimizing loss
+- Loss landscapes can be complex
+- Conditioning affects convergence speed
+- Saddle points are major challenge
