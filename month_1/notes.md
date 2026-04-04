@@ -93,3 +93,10 @@ Day 15 Observations:
 - Loss landscapes can be complex
 - Conditioning affects convergence speed
 - Saddle points are major challenge
+
+Day 16 Observations:
+
+- SGD introduces noise
+- Momentum reduces oscillations
+- Adam adapts learning rate
+- Modern ML uses Adam widely
