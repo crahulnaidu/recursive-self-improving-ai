@@ -100,3 +100,10 @@ Day 16 Observations:
 - Momentum reduces oscillations
 - Adam adapts learning rate
 - Modern ML uses Adam widely
+
+Day 17 Observations:
+
+- LR should change over time
+- Warmup stabilizes training
+- Cosine decay is widely used
+- LR scheduling improves convergence
