@@ -107,3 +107,10 @@ Day 17 Observations:
 - Warmup stabilizes training
 - Cosine decay is widely used
 - LR scheduling improves convergence
+
+Day 18 Observations:
+
+- BN normalizes activations per batch
+- BN stabilizes training
+- BN enables larger learning rates
+- BN smooths optimization
