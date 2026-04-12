@@ -114,3 +114,10 @@ Day 18 Observations:
 - BN stabilizes training
 - BN enables larger learning rates
 - BN smooths optimization
+
+Day 19 Observations:
+
+- BN depends on batch statistics
+- LN normalizes per sample
+- Transformers use LN
+- GN helps when batch sizes are small
