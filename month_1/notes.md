@@ -121,3 +121,10 @@ Day 19 Observations:
 - LN normalizes per sample
 - Transformers use LN
 - GN helps when batch sizes are small
+
+Day 20 Observations:
+
+- Backprop uses chain rule
+- Gradients flow backward through graph
+- Deep nets suffer vanishing/exploding gradients
+- Backprop makes deep learning practical
